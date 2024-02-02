@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/TheGuySwann/bitcoin-tracker/static/css/main.713e6d43.css",
-    "main.js": "/TheGuySwann/bitcoin-tracker/static/js/main.91a56481.js",
-    "static/js/592.e7b5eb39.chunk.js": "/TheGuySwann/bitcoin-tracker/static/js/592.e7b5eb39.chunk.js",
-    "index.html": "/TheGuySwann/bitcoin-tracker/index.html",
-    "main.713e6d43.css.map": "/TheGuySwann/bitcoin-tracker/static/css/main.713e6d43.css.map",
-    "main.91a56481.js.map": "/TheGuySwann/bitcoin-tracker/static/js/main.91a56481.js.map",
-    "592.e7b5eb39.chunk.js.map": "/TheGuySwann/bitcoin-tracker/static/js/592.e7b5eb39.chunk.js.map"
+    "main.css": "/bitcoin-tracker/static/css/main.713e6d43.css",
+    "main.js": "/bitcoin-tracker/static/js/main.b14a2523.js",
+    "static/js/592.6f223ded.chunk.js": "/bitcoin-tracker/static/js/592.6f223ded.chunk.js",
+    "index.html": "/bitcoin-tracker/index.html",
+    "main.713e6d43.css.map": "/bitcoin-tracker/static/css/main.713e6d43.css.map",
+    "main.b14a2523.js.map": "/bitcoin-tracker/static/js/main.b14a2523.js.map",
+    "592.6f223ded.chunk.js.map": "/bitcoin-tracker/static/js/592.6f223ded.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.713e6d43.css",
-    "static/js/main.91a56481.js"
+    "static/js/main.b14a2523.js"
   ]
 }
