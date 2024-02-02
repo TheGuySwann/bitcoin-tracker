@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TheGuySwann/bitcoin-tracker/static/css/main.713e6d43.css",
+    "main.js": "/TheGuySwann/bitcoin-tracker/static/js/main.91a56481.js",
+    "static/js/592.e7b5eb39.chunk.js": "/TheGuySwann/bitcoin-tracker/static/js/592.e7b5eb39.chunk.js",
+    "index.html": "/TheGuySwann/bitcoin-tracker/index.html",
+    "main.713e6d43.css.map": "/TheGuySwann/bitcoin-tracker/static/css/main.713e6d43.css.map",
+    "main.91a56481.js.map": "/TheGuySwann/bitcoin-tracker/static/js/main.91a56481.js.map",
+    "592.e7b5eb39.chunk.js.map": "/TheGuySwann/bitcoin-tracker/static/js/592.e7b5eb39.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.713e6d43.css",
+    "static/js/main.91a56481.js"
+  ]
+}
